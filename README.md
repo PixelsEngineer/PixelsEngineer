@@ -24,7 +24,7 @@ Here’s what I’m building, learning, and sharing with the world:
 
 ## 🌟 Core Skills  
 - **Languages:** JavaScript, Python, PHP, Java, Go  
-- **Frameworks:** Node.js, React, Symfony, Spring Boot  
+- **Frameworks:** Node.js, Angular, Symfony, Spring Boot  
 - **DevOps:** Docker, Kubernetes, GitHub Actions, Terraform  
 - **Creative Tools:** Three.js, WebGL, Canva
 
